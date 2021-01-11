@@ -17,6 +17,7 @@
         Hello World
 
         <button class="btn btn-primary">eiei</button>
+        <button class="btn btn-primary">eiei</button>
 
         <img src="image/profile.jpg" alt="">
     </div>
